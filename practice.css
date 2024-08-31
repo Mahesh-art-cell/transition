@@ -1,0 +1,23 @@
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid green;
+    animation-name: box;
+    animation-duration: 10s;
+    /* transition-duration: 5s;
+    transition-delay: 3s;
+    transition-timing-function: ease; */
+
+/* @keyframes box{
+    from {background-color: yellow;}
+    to {background-color: blue;}
+} */ 
+/* div:hover{
+    transform:scaleX(0.5);
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+} */
